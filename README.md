@@ -1,1 +1,3 @@
-![image](https://github.com/adipiscingelite/belajar-vue/assets/138475761/91908eaa-3d81-4f2f-8023-1d39a3c5e382)
+# halo dunia
+
+Lorem ipsum, atau ringkasnya lipsum, adalah teks standar yang ditempatkan untuk mendemostrasikan elemen grafis atau presentasi visual seperti font, tipografi, dan tata letak.
